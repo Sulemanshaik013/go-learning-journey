@@ -4,7 +4,7 @@ This repository documents my journey learning Go from complete beginner to build
 
 ## Learning Path
 
-- [ ] **Task 1**: Go Basics - Budget Tracker
+- [X] **Task 1**: Go Basics - Budget Tracker
 - [ ] **Task 2**: Structs & Interfaces
 - [ ] **Task 3**: Error Handling
 - [ ] **Task 4**: Concurrency
