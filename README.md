@@ -20,11 +20,8 @@ This repository documents my journey learning Go from complete beginner to build
 - [ ] **Task 14**: Packaging & Deployment
 
 ## Current Progress
- 
-XXXXX
-XXXXX
-XXXXX
 
+Working on: Task 1 - Budget Tracker
 
 ## Notes
 
