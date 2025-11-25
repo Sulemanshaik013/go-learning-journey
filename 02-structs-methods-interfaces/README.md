@@ -21,14 +21,20 @@ A library management system that tracks books, members, and borrowing operations
 - Use interfaces for polymorphic behavior
 
 ## Key Design Decisions
-[ ]
+- Group releated data together logically
+- If any method need pointer recceiver, use pointer recceiver for all to maintain consitency.
+- small interfaces and behavior based naming for interfaces
 
 ## What I Learned
-[ ]
-
+- structs and interfaces
+- receivers (pointer & value)
+- when to use pointer receiver and value receiver
+- no implement keyword, struct has to have all the methods defined in interface,
+- items in range loop are copy 
 ## Challenges Faced
-[ ]
-
+- delete opertion is slice is mannual
+- understanding pointer copy while iterating list
+- implict implementation of interfaces
 ## How to Run
 ```bash
 cd 02-structs-methods-interfaces
