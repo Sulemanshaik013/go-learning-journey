@@ -21,7 +21,7 @@ This repository documents my journey learning Go from complete beginner to build
 
 ## Current Progress
 
-Completed : Task 3 - Error Handling
+Started : Task 4 - Concurrency
 
 ## Notes
 
