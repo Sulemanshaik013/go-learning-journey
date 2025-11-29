@@ -6,7 +6,7 @@ This repository documents my journey learning Go from complete beginner to build
 
 - [X] **Task 1**: Go Basics - Budget Tracker
 - [X] **Task 2**: Structs & Interfaces
-- [ ] **Task 3**: Error Handling
+- [X] **Task 3**: Error Handling
 - [ ] **Task 4**: Concurrency
 - [ ] **Task 5**: Go Modules & Project Structure
 - [ ] **Task 6**: CLI Tool
@@ -21,7 +21,7 @@ This repository documents my journey learning Go from complete beginner to build
 
 ## Current Progress
 
-Completed : Task 2 - Structs & Interfaces
+Completed : Task 3 - Error Handling
 
 ## Notes
 

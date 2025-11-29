@@ -21,13 +21,19 @@ A contact management system with file persistence that demonstrates comprehensiv
 - User-friendly error messages
 
 ## Key Design Decisions
-- [ ]
+- Always Check Errors Immediately
+- Keep error messages simple and lowercase
+- return error as last value
 
 ## What I Learned
-- [ ]
+- Any type that implements `Error() string` is an error
+- Sentinel Errors - package level errors with var
+- `%w` Preserves original error, creates error chain
+- `error.Is()` used to check error matches
+- `error.As()` used to extract error types, must pass pointer
 
 ## Challenges Faced
-- [ ]
+- Mannual handling or error
 
 ## How to Run
 ```bash
